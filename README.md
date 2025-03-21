@@ -4,7 +4,7 @@
 
 This project is a console application similar to Paint, which allows you to draw basic shapes.
 
-## Functional Requirements
+### Functional Requirements
 
 - **Drawing a canvas** of specified size
 - **Drawing a circle** (preferably with a radius greater than 4)
