@@ -13,7 +13,7 @@ This project is a console application similar to Paint, which allows you to draw
 - **Moving all shapes** by entering an offset (x, y)
 - **Filling shapes** with basic symbols `$` or allowing the user to choose their own symbol
 - **Undoing the last action**
-- **Saving the canvas with shapes** to a file
+- **Saving the canvas with shapes as json** to a file
 - **Loading the canvas with shapes** from a file
 - **Tests for individual shapes**
 - **Exiting the program**
