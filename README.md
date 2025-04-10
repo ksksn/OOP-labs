@@ -17,4 +17,5 @@ This project is a console application similar to Paint, which allows you to draw
 - **Loading the canvas with shapes** from a file
 - **Tests for individual shapes**
 - **Exiting the program**
+- **Cansel the last action**
 
