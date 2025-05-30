@@ -31,8 +31,3 @@ The system is designed using a **Layered Architecture** with the following layer
 - **Structural Pattern**: Adapter pattern for calling the external quote API.
 - **Creational Pattern**: Factory method for creating `Student` and `QuoteDTO` objects.
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-   cd YOUR_REPOSITORY
